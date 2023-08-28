@@ -1,0 +1,101 @@
+"ask_question_id","user_question","ask_question","leftover","sql_full","sch_schema_id","organisation_id","modified_on","to_consider"
+33930,SALES BY REGION,Sum of Sales by Region,      BY       ,"SELECT SUM(f9e7e50cd78cf7fc974d62d36d4458b9.Sales::NUMERIC(35,2)) AS ""Sum of Sales"", f9e7e50cd78cf7fc974d62d36d4458b9.Region AS ""Region"" GROUP BY f9e7e50cd78cf7fc974d62d36d4458b9.Region ORDER BY SUM(f9e7e50cd78cf7fc974d62d36d4458b9.Sales::NUMERIC(35,2)) DESC  LIMIT 10000",20512,247,"2023-02-16 14:04:30",1
+34153,قاع 5 PROFIT BY CATEGORY,قاع 5 Category by Sum of Profit,             BY         ,"",20512,247,"2023-02-28 06:35:00",1
+34155,"5 قاع PROFIT BY CATEGORY",قاع Category by Sum of Profit,             BY         ,"SELECT SUM(f9e7e50cd78cf7fc974d62d36d4458b9.Profit::NUMERIC(35,2)) AS ""Sum of Profit"", f9e7e50cd78cf7fc974d62d36d4458b9.Category AS ""Category"" GROUP BY f9e7e50cd78cf7fc974d62d36d4458b9.Category  LIMIT 1",20512,247,"2023-02-28 07:56:30",0
+34156,"2 قاع PROFIT BY CATEGORY",قاع 2 Category by Sum of Profit,             BY         ,"SELECT SUM(f9e7e50cd78cf7fc974d62d36d4458b9.Profit::NUMERIC(35,2)) AS ""Sum of Profit"", f9e7e50cd78cf7fc974d62d36d4458b9.Category AS ""Category"" GROUP BY f9e7e50cd78cf7fc974d62d36d4458b9.Category  LIMIT 2",20512,247,"2023-02-28 08:57:21",1
+34464,CHANGE ANALYSIS PROFIT BY SHIP DATE YEAR,Change analysis of Sum of Profit by Ship Date Year,                       BY               ,"",20512,247,"2023-03-16 08:49:03",1
+34465,CHANGE ANALYSIS PROFIT DISCOUNT BY SHIP DATE YEAR,"Change analysis of Sum of Profit, Sum of Discount by Ship Date Year",                                BY                ,"",20512,247,"2023-03-16 08:49:57",1
+35536,TREND ANALYSIS SALES BY SHIP DATE MONTH REGION,"Trend analysis of Sum of Sales, Ship Date Month, Region",                     BY                       ,"",20512,247,"2023-04-28 05:51:55",1
+35874,OUTLIER ANALYSIS SALES PROFIT BY ORDER DATE WEEK SHIP DATE WEEK,"Outlier analysis of Sum of Sales, Sum of Profit, Order Date Week, Ship Date Week",                              BY                               ,"",20512,247,"2023-05-05 04:26:31",1
+35875,TREND SALES BY ORDER DATE WEEK SHIP DATE WEEK,"Sum of Sales, Order Date Week, Ship Date Week",            BY                               ,"",20512,247,"2023-05-05 04:26:47",0
+35876,TREND SALES BY ORDER DATE WEEK REGION,"Trend analysis of Sum of Sales, Order Date Week, Region",            BY                       ,"",20512,247,"2023-05-05 04:27:03",1
+35877,TREND SALES BY ORDER DATE MONTH REGION,"Trend analysis of Sum of Sales, Order Date Month, Region",            BY                        ,"",20512,247,"2023-05-05 04:27:22",1
+35878,WHAT IS SALES BY REGION,"Sum of Sales, Region",WHAT IS       BY        ,"",20512,247,"2023-05-05 04:53:55",1
+35879,TREND SALES BY ORDER DATE MONTH SHIP DATE WEEK,"Sum of Sales, Order Date Month, Ship Date Week",            BY                                 ,"",20512,247,"2023-05-05 06:13:35",0
+35880,SALES  PROFIT BY CHANNEL STATE,"Sum of Sales, Sum of Profit, State",             BY CHANNEL      ,"",20512,247,"2023-05-05 06:17:07",0
+35881,SALES  PROFIT BY CATEGORY STATE,"Sum of Sales, Sum of Profit, Category, State",             BY               ,"",20512,247,"2023-05-05 06:17:25",1
+35882,TOP 5 SALES BY REGION,"Top 5  Sum of Sales, Region",            BY        ,"",20512,247,"2023-05-05 09:00:36",1
+35883,BOTTOM 5 SALES BY REGION,"Bottom 5  Sum of Sales, Region",               BY        ,"",20512,247,"2023-05-05 09:00:42",1
+35922,PROFIT BY SHIP DATE MONTH,"Sum of Profit, Ship Date Month",       BY                ,"",20512,247,"2023-05-08 02:51:23",1
+35923,PROFIT BY SHIP DATE DAY,"Sum of Profit, Ship Date Day",       BY              ,"",20512,247,"2023-05-08 02:51:33",1
+35924,PROFIT BY SHIP DATE DAY ORDER BY PROFIT DESCENDING,"Sum of Profit, Ship Date Day",       BY                                          ,"",20512,247,"2023-05-08 02:52:00",1
+35925,PROFIT BY SHIP DATE DAY ORDER BY PROFIT ASC,"Sum of Profit, Ship Date Day",       BY                                  ,"",20512,247,"2023-05-08 02:52:15",1
+36040,TREND ANALYSIS SALES BY SHIP DATE MONTH  SHIP DATE QUARTER,"Sum of Sales, Ship Date Month, Ship Date Quarter",                     BY                                  ,"",20512,247,"2023-05-09 04:40:46",0
+36110,PROFIT BY CATEGORY COUNTRY STATE,"Sum of Profit, Category, Country, State",       BY                       ,"",20512,247,"2023-05-10 02:09:44",1
+36138,SALES BY CATEGORY COUNTRY STATE,"Sum of Sales, Category, Country, State",      BY                        ,"",20512,247,"2023-05-10 03:17:35",1
+36182,SALES WON BY CREATION DATE QUARTER AMOUNT,"Sum of Sales, Ship Date Quarter",      WON BY CREATION DATE         AMOUNT,"",20512,247,"2023-05-10 04:38:04",0
+36183,SALES WON BY CREATION DATE QUARTER ACCOUNT,"Sum of Sales, Ship Date Quarter",      WON BY CREATION DATE                ,"",20512,247,"2023-05-10 04:38:23",0
+36186,PARETO ANALYSIS SALES BY REGION,"Pareto analysis of Sum of Sales, Region",                      BY       ,"",20512,247,"2023-05-10 05:03:26",1
+36187,PARETO ANALYSIS SALES BY CITY,"Pareto analysis of Sum of Sales, City",                      BY     ,"",20512,247,"2023-05-10 05:03:39",1
+36188,PARETO ANALYSIS SALES BY STATE,"Pareto analysis of Sum of Sales, State",                      BY      ,"",20512,247,"2023-05-10 05:03:54",1
+36189,"PARETO ANALYSIS OF SUM OF SALES, SEGMENT FOR OHIO","Pareto analysis of Sum of Sales, Segment for OHIO",                      BY      ,"",20512,247,"2023-05-10 05:06:09",1
+36190,"PARETO ANALYSIS OF SUM OF SALES, CATEGORY FOR OHIO AND CONSUMER","Pareto analysis of Sum of Sales, Category for OHIO and CONSUMER",                      BY      ,"",20512,247,"2023-05-10 05:06:20",1
+36196,SALES BY STATE,"Sum of Sales, State",       BY      ,"",20512,247,"2023-05-10 05:09:15",1
+36198,SALES BY STATE  CITY,"Sum of Sales, State, City",       BY           ,"",20512,247,"2023-05-10 05:09:25",1
+36211,TREND ANALYSIS PROFIT BY ORDER DATE YEAR,"Trend analysis of Sum of Profit, Order Date Year",                      BY                ,"",20512,247,"2023-05-10 05:36:18",1
+36213,PROFIT BY CITY,"Sum of Profit, City",       BY     ,"",20512,247,"2023-05-10 05:38:15",1
+36214,TOP 5 PROFIT BY CITY,"Top 5  Sum of Profit, City",             BY     ,"",20512,247,"2023-05-10 05:38:34",1
+36217,PROFIT BY SHIP DATE QUARTER,"Sum of Profit, Ship Date Quarter",       BY                  ,"",20512,247,"2023-05-10 05:43:17",1
+36225,PROFIT BY ORDER DATE QUARTER,"Sum of Profit, Order Date Quarter",       BY                   ,"",20512,247,"2023-05-10 06:02:22",1
+36226,SALES BY CATEGORY,"Sum of Sales, Category",      BY         ,"",20512,247,"2023-05-10 06:08:40",1
+36227,PROFIT BY SEGMENT,"Sum of Profit, Segment",       BY        ,"",20512,247,"2023-05-10 06:11:00",1
+36234,TOP 2 CITY BY SALES IN EACH STATE,"Top 2  City, Sum of Sales, State",           BY          EACH       ,"",20512,247,"2023-05-10 06:32:04",1
+36235,CITY BY SALES IN EACH STATE,"City, Sum of Sales, State",      BY          EACH       ,"",20512,247,"2023-05-10 06:32:31",1
+36236,CITY BY SALES IN EACH REGION,"City, Sum of Sales, Region",     BY          EACH        ,"",20512,247,"2023-05-10 06:33:50",1
+36239,COUNT OF CITY,Count of City,      OF     ,"",20512,247,"2023-05-10 06:43:27",1
+36240,COUNT OF CITY BY STATE,"Count of City, State",      OF      BY      ,"",20512,247,"2023-05-10 06:43:39",1
+36241,TOP 2 CITY BY SALES IN EACH REGION,"Top 2  City, Sum of Sales, Region",           BY          EACH       ,"",20512,247,"2023-05-10 06:44:39",1
+36242,TOP 2 CITY BY SALES BY REGION,"Top 2  City, Sum of Sales, Region",           BY       BY       ,"",20512,247,"2023-05-10 06:44:56",1
+36246,TOP 5 PROFIT CITY CATEGORY,"Top 5  Sum of Profit, City, Category",                           ,"",20512,247,"2023-05-10 07:01:49",1
+36247,TOP 5 PROFIT CATEGORY CITY,"Top 5  Sum of Profit, Category, City",                          ,"",20512,247,"2023-05-10 07:02:42",1
+36268,TOTAL SALES,Sum of Sales,            ,"",20512,247,"2023-05-11 05:57:11",1
+36270,TOTAL PROFIT,Sum of Profit,             ,"",20512,247,"2023-05-11 06:33:28",1
+36271,AVERAGE SALES PER CUSTOMER,Average of Sales,               PER CUSTOMER,"",20512,247,"2023-05-11 06:38:06",0
+36272,AVERAGE PROFIT PER CUSTOMER,Average of Profit,                PER CUSTOMER,"",20512,247,"2023-05-11 06:38:08",0
+36273,TOTAL QUANTITY SOLD,Quantity,                SOLD,"",20512,247,"2023-05-11 06:38:11",0
+36274,AVERAGE QUANTITY SOLD PER CUSTOMER,Quantity,                  SOLD PER CUSTOMER,"",20512,247,"2023-05-11 06:38:14",0
+36275,AVERAGE DISCOUNT PER ORDER,Average of Discount,                  PER      ,"",20512,247,"2023-05-11 06:40:32",0
+36276,AVERAGE QUANTITY PER ORDER,Quantity,                  PER      ,"",20512,247,"2023-05-11 06:40:34",0
+36277,PROFIT MARGIN,Sum of Profit,        MARGIN,"",20512,247,"2023-05-11 06:45:28",0
+36278,AVERAGE SALES PER ORDER,Average of Sales,               PER      ,"",20512,247,"2023-05-11 06:56:37",0
+36279,AVERAGE PROFIT PER ORDER,Average of Profit,                PER      ,"",20512,247,"2023-05-11 06:56:39",0
+36280,AVERAGE QUANTITY SOLD PER ORDER,Quantity,                  SOLD PER      ,"",20512,247,"2023-05-11 06:56:43",0
+36281,TOTAL DISCOUNT GIVEN,Sum of Discount,                GIVEN,"",20512,247,"2023-05-11 06:56:45",0
+36282,TOTAL RETURNS,Returned,              ,"",20512,247,"2023-05-11 07:02:16",0
+36283,RETURN RATE,Returned,            ,"",20512,247,"2023-05-11 07:02:18",1
+36289,AVERAGE DISCOUNT,Average of Discount,                 ,"",20512,247,"2023-05-11 08:08:31",1
+36290,SALES BY PROFIT,"Sum of Sales, Sum of Profit",      BY       ,"",20512,247,"2023-05-11 08:23:39",1
+36291,PROFIT BY CATEGORY,"Sum of Profit, Category",       BY         ,"",20512,247,"2023-05-11 08:33:22",1
+36292,TOTAL DISCOUNT,Sum of Discount,               ,"",20512,247,"2023-05-11 09:11:39",1
+36327,COUNT OF QUANITY,Count of Quantity,      OF        ,"",20512,247,"2023-05-12 07:15:39",1
+36328,PROFIT BY COUNTRY,"Sum of Profit, Country",       BY         ,"",20512,247,"2023-05-12 07:16:40",1
+36490,TREND ANALYSIS PROFIT BY ORDER DATE YEAR SHIP DATE MONTH,"Sum of Profit, Order Date Year, Ship Date Month",                      BY                                 ,"",20512,247,"2023-05-16 07:27:55",0
+36491,TREND ANALYSIS PROFIT BY ORDER DATE YEAR REGION,"Trend analysis of Sum of Profit, Order Date Year, Region",                      BY                        ,"",20512,247,"2023-05-16 07:28:08",1
+36492,WHAT IS PROFIT BY SUB CATEGORY,"Sum of Profit, Sub Category",WHAT IS        BY              ,"",20512,247,"2023-05-16 07:30:22",1
+36529,SALES,Sum of Sales,      ,"",20512,247,"2023-05-17 06:58:29",1
+36530,SALES  PROFIT,"Sum of Sales, Sum of Profit",             ,"",20512,247,"2023-05-17 07:15:13",1
+36531,CATEGORY  REGION,"Category, Region",               ,"",20512,247,"2023-05-17 07:15:40",1
+36532,CATEGORY BY SALES,"Category, Sum of Sales",         BY      ,"",20512,247,"2023-05-17 07:16:24",1
+36533,CATEGORY BY STATE,"Category, State",         BY      ,"",20512,247,"2023-05-17 07:31:47",1
+36534,PROFIT BY SEGMENT IN A LINE,"Sum of Profit, Segment",       BY            A     ,"",20512,247,"2023-05-17 08:57:00",1
+36535,SALES BY SEGMENT,"Sum of Sales, Segment",       BY        ,"",20512,247,"2023-05-17 09:00:24",1
+36536,PROFIT BY REGION,"Sum of Profit, Region",        BY       ,"",20512,247,"2023-05-17 09:00:34",1
+36537,SALES BY SUB CATEGORY,"Sum of Sales, Sub Category",       BY             ,"",20512,247,"2023-05-17 09:00:37",1
+36538,PROFIT BY SUB CATEGORY,"Sum of Profit, Sub Category",        BY             ,"",20512,247,"2023-05-17 09:00:40",1
+36539,SALES BY COUNTRY,"Sum of Sales, Country",       BY        ,"",20512,247,"2023-05-17 09:00:43",1
+36540,RETURNED ORDERS PERCENTAGE,Returned,                 PERCENTAGE,"",20512,247,"2023-05-17 09:00:48",0
+36543,SALES  PROFIT BY STATE,"Sum of Sales, Sum of Profit, State",             BY      ,"",20512,247,"2023-05-18 02:00:56",1
+36545,SALES BY SHIP MODE,"Sum of Sales, Ship Mode",       BY          ,"",20512,247,"2023-05-18 07:30:39",1
+36546,PROFIT BY SHIP MODE,"Sum of Profit, Ship Mode",        BY          ,"",20512,247,"2023-05-18 07:30:41",1
+36547,RETURNED ORDERS,Returned,                ,"",20512,247,"2023-05-18 07:30:43",1
+36548,TOTAL NUMBER OF RETURNED PRODUCTS,Count of Returned,              OF          PRODUCTS,"",20512,247,"2023-05-18 07:31:40",0
+36549,TOTAL NUMBER OF PRODUCTS BY CATEGORY,Count of Category,              OF PRODUCTS BY         ,"",20512,247,"2023-05-18 07:31:42",0
+36550,TOTAL NUMBER OF PRODUCTS BY SUB-CATEGORY,Count of Sub Category,              OF PRODUCTS BY             ,"",20512,247,"2023-05-18 07:31:44",0
+36551,TOTAL SALES BY CATEGORY,"Sum of Sales, Category",             BY         ,"",20512,247,"2023-05-18 07:31:46",1
+36552,TOTAL SALES BY SUB-CATEGORY,"Sum of Sales, Sub Category",             BY             ,"",20512,247,"2023-05-18 07:31:48",1
+36553,TOTAL PROFIT BY CATEGORY,"Sum of Profit, Category",              BY         ,"",20512,247,"2023-05-18 07:31:50",1
+36554,TOTAL PROFIT BY SUB-CATEGORY,"Sum of Profit, Sub Category",              BY             ,"",20512,247,"2023-05-18 07:31:53",1
+36555,TOTAL QUANTITY SOLD BY CATEGORY,"Sum of Quantity, Category",                SOLD BY         ,"",20512,247,"2023-05-18 07:31:55",0
+36556,TOTAL QUANTITY SOLD BY SUB-CATEGORY,"Sum of Quantity, Sub Category",                SOLD BY             ,"",20512,247,"2023-05-18 07:31:58",0
+36557,AVERAGE QUANTITY PER CUSTOMER,Average of Quantity,                  PER CUSTOMER,"",20512,247,"2023-05-18 07:32:05",0
+36558,TOTAL SALES BY SEGMENT,"Sum of Sales, Segment",             BY        ,"",20512,247,"2023-05-18 07:32:07",1
