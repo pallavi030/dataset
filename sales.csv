@@ -1,0 +1,9 @@
+sales,profit,region,city,order_date
+1200,300,North,New York,2023-09-01
+1500,400,North,Boston,2023-09-02
+800,150,East,Washington,2023-09-03
+2000,600,East,Philadelphia,2023-09-04
+1000,200,West,Los Angeles,2023-09-05
+1300,350,West,San Francisco,2023-09-06
+900,180,South,Miami,2023-09-07
+1100,250,South,Atlanta,2023-09-08
