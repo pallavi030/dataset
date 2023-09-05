@@ -1,9 +1,95 @@
 sales,profit,region,city,order_date
-1200,300,North,New York,2023-09-01
-1500,400,North,Boston,2023-09-02
-800,150,East,Washington,2023-09-03
-2000,600,East,Philadelphia,2023-09-04
-1000,200,West,Los Angeles,2023-09-05
-1300,350,West,San Francisco,2023-09-06
-900,180,South,Miami,2023-09-07
-1100,250,South,Atlanta,2023-09-08
+1200,300,North,New York,2019-09-01
+1500,400,North,Boston,2019-09-02
+800,150,East,Washington,2019-09-03
+2000,600,East,Philadelphia,2019-09-04
+1000,200,West,Los Angeles,2019-09-05
+1300,350,West,San Francisco,2019-09-06
+900,180,South,Miami,2019-09-07
+1100,250,South,Atlanta,2019-09-08
+1600,500,East,Newark,2019-09-09
+700,100,West,Seattle,2019-09-10
+1200,350,North,Chicago,2019-09-11
+1800,550,East,Baltimore,2019-09-12
+950,200,South,New Orleans,2019-09-13
+1700,450,East,Boston,2019-09-14
+600,80,West,San Diego,2019-09-15
+1400,300,East,Washington,2019-09-16
+2200,700,West,San Francisco,2019-09-17
+1300,280,South,Miami,2019-09-18
+1200,260,East,Philadelphia,2019-09-19
+1000,150,North,New York,2019-09-20
+1900,580,East,Pittsburgh,2019-09-21
+800,140,West,Los Angeles,2019-09-22
+1600,400,South,Atlanta,2019-09-23
+700,120,West,Portland,2019-09-24
+1100,240,North,Buffalo,2019-09-25
+1400,350,East,Brooklyn,2019-09-26
+900,180,South,Tampa,2019-09-27
+2000,550,East,Boston,2019-09-28
+750,130,West,San Jose,2019-09-29
+1200,300,North,Chicago,2019-09-30
+1300,280,East,Newark,2020-02-01
+1400,320,East,Philadelphia,2020-02-02
+800,150,West,Los Angeles,2020-02-03
+1700,500,East,Baltimore,2020-02-04
+1100,220,South,Miami,2020-02-05
+2100,600,West,San Francisco,2020-02-06
+900,190,South,Atlanta,2020-02-07
+1800,450,East,New York,2020-02-08
+1500,350,West,Seattle,2020-02-09
+1300,280,North,Chicago,2020-02-10
+2000,520,East,Washington,2020-02-11
+850,170,West,Denver,2020-02-12
+1200,300,North,Buffalo,2020-02-13
+1000,200,South,Orlando,2020-02-14
+1400,350,East,Boston,2020-02-15
+750,130,West,San Diego,2020-02-16
+1200,300,North,New York,2021-05-01
+1500,400,North,Boston,2021-05-02
+800,150,East,Washington,2021-05-03
+2000,600,East,Philadelphia,2021-05-04
+1000,200,West,Los Angeles,2021-05-05
+1300,350,West,San Francisco,2021-05-06
+900,180,South,Miami,2021-05-07
+1100,250,South,Atlanta,2021-05-08
+1600,500,East,Newark,2021-05-09
+700,100,West,Seattle,2021-05-10
+1200,350,North,Chicago,2021-05-11
+1800,550,East,Baltimore,2021-05-12
+950,200,South,New Orleans,2021-05-13
+1700,450,East,Boston,2021-05-14
+600,80,West,San Diego,2021-05-15
+1400,300,East,Washington,2021-05-16
+2200,700,West,San Francisco,2021-05-17
+1300,280,South,Miami,2021-05-18
+1200,260,East,Philadelphia,2021-05-19
+1000,150,North,New York,2021-05-20
+1900,580,East,Pittsburgh,2021-05-21
+800,140,West,Los Angeles,2021-05-22
+1600,400,South,Atlanta,2021-05-23
+700,120,West,Portland,2021-05-24
+1100,240,North,Buffalo,2021-05-25
+1400,350,East,Brooklyn,2021-05-26
+900,180,South,Tampa,2021-05-27
+2000,550,East,Boston,2021-05-28
+750,130,West,San Jose,2021-05-29
+1200,300,North,Chicago,2021-05-30
+1300,280,East,Newark,2022-08-01
+1400,320,East,Philadelphia,2022-08-02
+800,150,West,Los Angeles,2022-08-03
+1700,500,East,Baltimore,2022-08-04
+1100,220,South,Miami,2022-08-05
+2100,600,West,San Francisco,2022-08-06
+900,190,South,Atlanta,2022-08-07
+1800,450,East,New York,2022-08-08
+1500,350,West,Seattle,2022-08-09
+1300,280,North,Chicago,2022-08-10
+2000,520,East,Washington,2022-08-11
+850,170,West,Denver,2022-08-12
+1200,300,North,Buffalo,2022-08-13
+1000,200,South,Orlando,2022-08-14
+1400,350,East,Boston,2022-08-15
+750,130,West,San Diego,2022-08-16
+1200,300,North,New York,202
+
