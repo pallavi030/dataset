@@ -1,0 +1,27 @@
+Category,Item,GST Rate
+Food and beverages,Processed foods,5%
+Food and beverages,Snacks,5%
+Food and beverages,Drinks,5%
+Clothing and footwear,Clothing,5%
+Clothing and footwear,Footwear,5%
+Electronics and appliances,Smartphones,18%
+Electronics and appliances,Computers,18%
+Electronics and appliances,TVs,18%
+Electronics and appliances,Refrigerators,18%
+Personal care products,Cosmetics,18%
+Personal care products,Toiletries,18%
+Personal care products,Perfumes,18%
+Home furnishing products,Furniture,18%
+Home furnishing products,Curtains,18%
+Home furnishing products,Bed linen,18%
+Transportation,Air travel,5%
+Transportation,Rail travel,5%
+Transportation,Road travel,5%
+Telecommunications,Mobile phone services,5%
+Telecommunications,Internet services,5%
+Telecommunications,Cable TV services,5%
+Hotels and restaurants,Hotel services,18%
+Hotels and restaurants,Restaurant services,18%
+Other services,Financial services,18%
+Other services,Professional services,18%
+Other services,Entertainment services,18%
