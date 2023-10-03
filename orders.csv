@@ -1,0 +1,37 @@
+City,Category,State,Customer_Name,Ship_Mode,Channel,Sub_Category,Order_Date,Shipping_Cost,Order_Discount,Product,Quantity,Profit,Country,Region,Customer_Segment,Sales,Order_Priority,Order Date year,Order Date quarter,Order Date month,Order Date week,Order Date day
+New York,Furniture,New York,John Doe,Express,Online,Chairs,2023-01-05,10.50,0.05,Chair,5,50.00,USA,East,Corporate,100.00,High,2023,Q1,Jan,1,Wednesday
+Los Angeles,Electronics,California,Jane Smith,Standard,InStore,Smartphone,2023-02-15,15.75,0.10,iPhone 13,3,90.00,USA,West,Small Business,300.00,Medium,2023,Q1,Feb,7,Tuesday
+Chicago,Office Supplies,Illinois,Robert Johnson,Express,Online,Pens,2023-03-25,5.25,0.03,Ballpoint Pens,10,15.00,USA,Midwest,Home Office,50.00,Low,2023,Q1,Mar,12,Saturday
+Houston,Electronics,Texas,Emily Brown,Standard,Online,Laptop,2023-04-10,20.00,0.15,HP Pavilion,2,80.00,USA,South,Consumer,200.00,Medium,2023,Q2,Apr,15,Sunday
+Phoenix,Office Supplies,Arizona,Michael Wilson,Express,InStore,Paper,2023-05-20,8.50,0.08,Copy Paper,15,25.00,USA,West,Corporate,100.00,High,2023,Q2,May,21,Saturday
+Philadelphia,Furniture,Pennsylvania,Linda Davis,Standard,Online,Sofa,2023-06-03,25.00,0.20,Leather Sofa,1,250.00,USA,East,Consumer,1250.00,High,2023,Q2,Jun,22,Friday
+San Antonio,Electronics,Texas,William Lee,Express,InStore,Headphones,2023-07-12,12.75,0.10,Sony WH-1000XM4,4,40.00,USA,South,Small Business,100.00,Medium,2023,Q3,Jul,28,Wednesday
+San Diego,Office Supplies,California,Susan Miller,Standard,Online,Stapler,2023-08-04,4.25,0.02,Desk Stapler,8,10.00,USA,West,Home Office,30.00,Low,2023,Q3,Aug,32,Thursday
+Dallas,Furniture,Texas,Daniel Martinez,Express,InStore,Table,2023-09-18,18.50,0.15,Dining Table,1,150.00,USA,South,Consumer,300.00,Medium,2023,Q3,Sep,38,Monday
+San Jose,Electronics,California,Karen Taylor,Standard,Online,TV,2023-10-01,30.00,0.12,Samsung 4K TV,2,100.00,USA,West,Corporate,400.00,High,2023,Q4,Oct,41,Sunday
+Austin,Furniture,Texas,Joseph Anderson,Express,InStore,Bed,2023-11-14,22.75,0.18,King Size Bed,1,200.00,USA,South,Small Business,450.00,High,2023,Q4,Nov,47,Tuesday
+Jacksonville,Office Supplies,Florida,Ruth Garcia,Standard,Online,Notebooks,2023-12-05,6.00,0.05,College Ruled Notebooks,12,12.00,USA,South,Consumer,60.00,Medium,2023,Q4,Dec,49,Thursday
+Indianapolis,Furniture,Indiana,James Wilson,Express,InStore,Chair,2024-01-02,10.50,0.05,Chair,5,50.00,USA,Midwest,Home Office,100.00,High,2024,Q1,Jan,1,Monday
+San Francisco,Electronics,California,Mary Robinson,Standard,Online,Tablet,2024-02-18,14.25,0.10,Apple iPad,3,40.00,USA,West,Consumer,120.00,Medium,2024,Q1,Feb,7,Wednesday
+Columbus,Office Supplies,Ohio,David White,Express,InStore,Pens,2024-03-28,5.25,0.03,Ballpoint Pens,10,15.00,USA,Midwest,Small Business,50.00,Low,2024,Q1,Mar,12,Wednesday
+Fort Worth,Furniture,Texas,Margaret Harris,Standard,Online,Sofa,2024-04-08,25.00,0.20,Leather Sofa,1,250.00,USA,South,Consumer,1250.00,High,2024,Q2,Apr,16,Monday
+Charlotte,Electronics,North Carolina,John Smith,Express,InStore,Headphones,2024-05-19,12.75,0.10,Sony WH-1000XM4,4,40.00,USA,South,Home Office,100.00,Medium,2024,Q2,May,21,Wednesday
+Detroit,Office Supplies,Michigan,Linda Wilson,Standard,Online,Paper,2024-06-06,8.50,0.08,Copy Paper,15,25.00,USA,Midwest,Small Business,100.00,High,2024,Q2,Jun,24,Thursday
+El Paso,Furniture,Texas,Robert Miller,Express,InStore,Table,2024-07-15,18.50,0.15,Dining Table,1,150.00,USA,South,Consumer,300.00,High,2024,Q3,Jul,29,Saturday
+Memphis,Electronics,Tennessee,Karen Davis,Standard,Online,TV,2024-08-02,30.00,0.12,Samsung 4K TV,2,100.00,USA,South,Corporate,400.00,High,2024,Q3,Aug,31,Monday
+Seattle,Office Supplies,Washington,James Anderson,Express,InStore,Stapler,2024-09-17,4.25,0.02,Desk Stapler,8,10.00,USA,West,Consumer,30.00,Low,2024,Q3,Sep,37,Tuesday
+Denver,Furniture,Colorado,Patricia Johnson,Standard,Online,Bed,2024-10-11,22.75,0.18,King Size Bed,1,200.00,USA,West,Home Office,450.00,Medium,2024,Q4,Oct,41,Thursday
+Washington,Electronics,District of Columbia,Michael Garcia,Express,InStore,Smartphone,2024-11-23,15.75,0.10,iPhone 13,3,90.00,USA,East,Consumer,300.00,Medium,2024,Q4,Nov,47,Saturday
+Boston,Office Supplies,Massachusetts,Barbara Brown,Express,Online,Notebooks,2024-12-12,6.00,0.05,College Ruled Notebooks,12,12.00,USA,East,Corporate,60.00,High,2024,Q4,Dec,50,Thursday
+Nashville,Furniture,Tennessee,William Smith,Standard,InStore,Chair,2025-01-03,10.50,0.05,Chair,5,50.00,USA,South,Consumer,100.00,High,2025,Q1,Jan,1,Saturday
+Baltimore,Electronics,Maryland,Patricia Davis,Express,Online,Tablet,2025-02-20,14.25,0.10,Apple iPad,3,40.00,USA,East,Small Business,120.00,Medium,2025,Q1,Feb,8,Friday
+Oklahoma City,Office Supplies,Oklahoma,Linda Garcia,Express,InStore,Pens,2025-03-29,5.25,0.03,Ballpoint Pens,10,15.00,USA,South,Consumer,50.00,Low,2025,Q1,Mar,13,Saturday
+Louisville,Furniture,Kentucky,Robert Anderson,Standard,Online,Sofa,2025-04-06,25.00,0.20,Leather Sofa,1,250.00,USA,South,Corporate,1250.00,High,2025,Q2,Apr,15,Sunday
+Portland,Electronics,Oregon,Karen Miller,Standard,InStore,Headphones,2025-05-18,12.75,0.10,Sony WH-1000XM4,4,40.00,USA,West,Home Office,100.00,Medium,2025,Q2,May,21,Monday
+Las Vegas,Office Supplies,Nevada,David Wilson,Express,Online,Paper,2025-06-07,8.50,0.08,Copy Paper,15,25.00,USA,West,Consumer,100.00,High,2025,Q2,Jun,24,Wednesday
+Milwaukee,Furniture,Wisconsin,James Davis,Express,InStore,Table,2025-07-16,18.50,0.15,Dining Table,1,150.00,USA,Midwest,Small Business,300.00,High,2025,Q3,Jul,29,Thursday
+Albuquerque,Electronics,New Mexico,Barbara Wilson,Standard,Online,TV,2025-08-03,30.00,0.12,Samsung 4K TV,2,100.00,USA,West,Consumer,400.00,Medium,2025,Q3,Aug,32,Friday
+Tucson,Office Supplies,Arizona,William Brown,Express,InStore,Stapler,2025-09-14,4.25,0.02,Desk Stapler,8,10.00,USA,West,Home Office,30.00,Low,2025,Q3,Sep,37,Sunday
+Fresno,Furniture,California,Mary Anderson,Standard,Online,Bed,2025-10-10,22.75,0.18,King Size Bed,1,200.00,USA,West,Corporate,450.00,Medium,2025,Q4,Oct,40,Wednesday
+Sacramento,Electronics,California,John Wilson,Express,InStore,Smartphone,2025-11-22,15.75,0.10,iPhone 13,3,90.00,USA,West,Consumer,300.00,High,2025,Q4,Nov,46,Monday
+Kansas City,Office Supplies,Missouri,Linda Anderson,Express,Online,Notebooks,2025-12-11,6.00,0.05,College Ruled Notebooks,12,12.00,USA,Midwest,Small Business,60.00,High,2025,Q4,Dec,50,Thursday
